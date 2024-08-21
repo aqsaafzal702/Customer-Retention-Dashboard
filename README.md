@@ -3,7 +3,7 @@
 This Power BI dashboard provides a comprehensive analysis of customer retention, focusing on factors that influence churn rates. The visualizations offer insights into demographic distribution, service usage, and other key metrics related to customer churn.
 
 ## Dashboard Highlights
-Overall Customer Churn Rate: A line graph tracking the overall churn rate over time.
+Overall Customer Churn Rate: A line graph tracking the overall churn rate over time. 
 Average of Monthly Charges: Displays the average monthly charges across customers.
 Distribution of Customer Demographics: A pie chart showing the breakdown of customer demographics, including gender, dependents, and senior citizens.
 Impact of Contract Type on Customer Churn: A bar chart visualizing how different contract types affect the churn rate.
